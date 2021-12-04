@@ -1,0 +1,41 @@
+{
+	"description": "项目配置文件。",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"minified": true,
+		"es6": false,
+		"postcss": false,
+		"urlCheck": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"projectname": "手机墙纸精选",
+	"qqappid": "1112144702",
+	"qqLibVersion": "1.6.3",
+	"scripts": {
+		"beforeCompile": "",
+		"beforePreview": "",
+		"beforeUpload": ""
+	},
+	"cloudfunctionRoot": "cloudfunctions/",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": []
+		}
+	}
+}
