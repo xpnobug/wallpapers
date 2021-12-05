@@ -1,15 +1,7 @@
 {
-<<<<<<< HEAD
-  "component": true,
-  "usingComponents": {
-    "u-mask": "/uview-ui/components/u-mask/u-mask",
-    "u-icon": "/uview-ui/components/u-icon/u-icon"
-  }
-=======
   "usingComponents": {
     "u-mask": "/uview-ui/components/u-mask/u-mask",
     "u-icon": "/uview-ui/components/u-icon/u-icon"
   },
   "component": true
->>>>>>> 7842511533f8e44d1c955adad31d6c25d8ec0481
 }
